@@ -1,0 +1,8 @@
+{
+  "BOT_TOKEN": "xxxxxxxxxxxxxx",
+  "VIDEO_FOLDER": ["F:\\Video Songs\\Songs 1", "E:\\Comedy HD"],
+  "NOTEPAD_FILE": "playitems.txt",
+  "TIME_LIMIT": 60,
+  "SCENE_PATH": "scenename.txt",
+  "OBS_PORT": 4456
+}
